@@ -1,0 +1,11 @@
+c:\users\manhcuong\documents\visual studio 2017\Projects\Session3\Session3\bin\Debug\netcoreapp2.0\Session3.deps.json
+c:\users\manhcuong\documents\visual studio 2017\Projects\Session3\Session3\bin\Debug\netcoreapp2.0\Session3.runtimeconfig.json
+c:\users\manhcuong\documents\visual studio 2017\Projects\Session3\Session3\bin\Debug\netcoreapp2.0\Session3.runtimeconfig.dev.json
+c:\users\manhcuong\documents\visual studio 2017\Projects\Session3\Session3\bin\Debug\netcoreapp2.0\Session3.dll
+c:\users\manhcuong\documents\visual studio 2017\Projects\Session3\Session3\bin\Debug\netcoreapp2.0\Session3.pdb
+c:\users\manhcuong\documents\visual studio 2017\Projects\Session3\Session3\obj\Debug\netcoreapp2.0\Session3.csproj.CoreCompileInputs.cache
+c:\users\manhcuong\documents\visual studio 2017\Projects\Session3\Session3\obj\Debug\netcoreapp2.0\Session3.AssemblyInfoInputs.cache
+c:\users\manhcuong\documents\visual studio 2017\Projects\Session3\Session3\obj\Debug\netcoreapp2.0\Session3.AssemblyInfo.cs
+c:\users\manhcuong\documents\visual studio 2017\Projects\Session3\Session3\obj\Debug\netcoreapp2.0\Session3.dll
+c:\users\manhcuong\documents\visual studio 2017\Projects\Session3\Session3\obj\Debug\netcoreapp2.0\Session3.pdb
+C:\Users\ManhCuong\documents\visual studio 2017\Projects\Session3\Session3\obj\Debug\netcoreapp2.0\Session3.csprojAssemblyReference.cache
